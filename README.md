@@ -123,7 +123,7 @@ developed for the following software and versions:
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 203 Lab 8
+you can go to the [Computer Science 203 Lab 9
 Starter](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-lab9-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
